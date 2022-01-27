@@ -1,0 +1,34 @@
+{
+  "name": "OG DUB #0",
+  "symbol": "DUB",
+  "description": "The Man. The Myth. The Legend.",
+  "seller_fee_basis_points": 777,
+  "image": "image.png",
+  "external_url": "https://twitter.com/DubFTs_91",
+  "edition": 0,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "OG",
+      "value": "High"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "36wXj93fUWVv9hs61amJTZryFVuLVGSaHPPwnwczcAUk",
+        "share": 100
+      }
+    ]
+  }
+}
